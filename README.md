@@ -51,15 +51,12 @@ cd tic-tac-toe
 
 ```
 tic-tac-toe/
-├── index.html
-├── style.css
-├── script.js
+├── Tic-Tac-Toe.html # The main HTML file.
+├──  Tic-Tac-Toe.css # Styles for the game UI.
+├──  Tic-Tac-Toe.js # JavaScript logic for game functionality.
+├──  image # Pic of Final Product
 └── Readme.md
 ```
-
-- **index.html**: The main HTML file.
-- **style.css**: Styles for the game UI.
-- **script.js**: JavaScript logic for game functionality.
 
 ## Customization
 
