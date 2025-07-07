@@ -11,7 +11,14 @@ A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 <!-- Optionally add a screenshot or a link to the live demo here -->
 <!-- ![Game Screenshot](screenshot.png) -->
 
-## Features
+## 🛠️ Technologies
+- **HTML5**: Structured markup for the calculator interface
+- **CSS3**: Responsive styling with Flexbox and media queries
+- **JavaScript**: Logic for calculations and user interactions
+- **VS Code**: Development environment
+- **Git**: Version control for collaboration
+
+## 🚀 Features
 
 - Classic 3x3 grid Tic Tac Toe gameplay
 - Playable by two players on the same device
