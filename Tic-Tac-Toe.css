@@ -45,6 +45,7 @@ body{
     font-size: larger;
 }
 #new-btn{
+    margin-top: 50px;
     width: 20vmin;
     height: 8vmin;
     border-radius: 10px;
@@ -54,7 +55,7 @@ body{
     font-size: larger;
 }
 #msg{
-    color:#ffda7b;
+    color:white;
     font-size: 10vmin;
 }
 .msg-container{

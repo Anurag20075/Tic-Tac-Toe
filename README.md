@@ -4,6 +4,10 @@ A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 
 ## Image
 
+![Calculator](image/GamePic.png)
+![Calculator](image/midgame.png)
+![Calculator](image/result.png)
+
 <!-- Optionally add a screenshot or a link to the live demo here -->
 <!-- ![Game Screenshot](screenshot.png) -->
 
@@ -60,6 +64,7 @@ tic-tac-toe/
 ## Customization
 
 Feel free to modify the styles or add new features, such as:
+
 - AI opponent (single player mode)
 - Scoreboard
 - Animations and sound effects
